@@ -14,5 +14,6 @@ void print data(){
 }
 };
 int main(){
-
+    mahasiswa mhs;
+   
 }
